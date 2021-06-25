@@ -1,0 +1,21 @@
+{
+  "name": "lessongulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "browser-sync": "^2.27.1",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemap": "^1.0.1",
+    "node-sass": "^6.0.1",
+    "sass": "^1.35.1"
+  }
+}
